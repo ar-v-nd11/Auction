@@ -1,0 +1,129 @@
+
+  .left-main {
+    height: 100%;
+    width: 33%;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    text-align: center;
+    background-color: #3045ff;
+    color: rgb(11, 0, 0);
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+.tname1{
+    height: 50px;
+    width: 50px;
+    border: 1px solid black;
+    background-color: #dcfffe;
+    color: rgb(11, 0, 0);
+    border: none;
+    border-radius: 50%;
+    font-size: 1rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    margin-top:  -590px; 
+    position: absolute;
+    background:url('C:\Users\this pc\auction\src\teams\assets\images\mumbai-indians2544.webp') no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+  .pname1{
+      height: 20px;
+      width: 200px;
+      border: 1px solid black;
+      background-color: #dcfffe;
+    color: rgb(11, 0, 0);
+    border: none;
+    border-radius: 8px;
+    font-size: 1rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    margin-top: 30px;
+  }
+  .balance1{
+      height: 20px;
+      width: 200px;
+      border: 1px solid black;
+      background-color: #dcfffe;
+    color: rgb(11, 0, 0);
+    border: none;
+    border-radius: 8px;
+    font-size: 1rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    margin-top: 20px;
+  }
+  .squad1{
+    height: 450px;
+    width: 350px;
+    border: 1px solid black;
+    background-color: #dcfffe;
+    color: rgb(11, 0, 0);
+    border: none;
+    border-radius: 8px;
+    font-size: 1rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    margin-bottom:10px ;
+    flex-direction: column;
+    gap: 8px;
+  }
+   .player1,.player2,.player3,.player4,.player5,.player6,.player7,.player8,.player9,.player10,.player11,.player12,.player13,.player14,.player15{
+      height: 20px;
+      width: 325px;
+      border: 1px solid black;
+      color: rgb(11, 0, 0);
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+      background-color: #ffffff;
+  }
+  .spend1{
+      height: 20px;
+      width: 200px;
+      border: 1px solid black;
+      background-color: #dcfffe;
+    color: rgb(11, 0, 0);
+    border: none;
+    border-radius: 8px;
+    font-size: 1rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+  }
