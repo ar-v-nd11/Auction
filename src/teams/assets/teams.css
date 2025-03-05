@@ -17,7 +17,7 @@
     align-items: center;
     position: relative;
     background-color: #cbeeff;
-    background:url('C:\Users\this pc\auction\src\teams\assets\images\std.avif') no-repeat;
+    background:url('C:\Users\Public\Auction\public\std.avif') no-repeat;
     background-position: center;
     background-size: cover;
     
@@ -71,7 +71,7 @@
     height: 100%;
     object-fit: cover; 
     border-radius: 50%; 
-    background:url('C:\Users\this pc\auction\src\teams\assets\images\mumbai-indians2544.webp') no-repeat;
+    background:url('C:\Users\Public\Auction\public\mumbai-indians2544.webp') no-repeat;
     background-position: center;
     background-size: cover;
     border: 5px solid #fff;
@@ -83,7 +83,7 @@
     height: 100%;
     object-fit: cover; 
     border-radius: 50%; 
-    background:url('C:\Users\this pc\auction\src\teams\assets\images\chennai-super-kings3461.webp') no-repeat;
+    background:url('C:\Users\Public\Auction\public\chennai-super-kings3461.webp') no-repeat;
     background-position: center;
     background-size: cover;
     border: 5px solid #fff;
